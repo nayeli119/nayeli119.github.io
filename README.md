@@ -40,7 +40,7 @@ Datathon (Mayo 2024)
   
 [Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 
-[Repositorio del Proyecto](https://github.com/nayeli119/HeyBanco)
+
 
 
 

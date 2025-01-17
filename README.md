@@ -37,7 +37,8 @@ Identificar  el nivel de criminalidad en los diferentes Estados de Estados Unido
 ## Participación en Eventos
 Datathon (Mayo 2024)
 - Identificar los comentarios positivos o negativos del público y los clientes de Hey Banco, con el fin de obtener áreas de Oportunidad en distintos segmentos operativos.
-  
+- Realizar análisis de sentimientos, análisis de frecuencia de palabras, análisis de asociaciones, análisis de tópicos.
+- Brindar conclusiones y recomendaciones en abse a los hallazgos identificados. 
 [Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 
 

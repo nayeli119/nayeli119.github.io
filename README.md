@@ -20,18 +20,18 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 - Proporcionar 3 modelos de inteligencia artificial para datos estructurados.
 - Proponer un plan de implementación en Databricks.
 
-# Códigos con R
+### Códigos con R
 **USArrests (clusters)**
 Identificar  el nivel de criminalidad en los diferentes Estados de Estados Unidos y crear 4 divisiones en una escala del más seguro al menos seguro.
 [Código](https://rpubs.com/NayeliPM/1156426)
 
-# Códigos con Python
+### Códigos con Python
 
-# Códigos con SQL
+### Códigos con SQL
 
-# Tableros en power BI
+### Tableros en power BI
 
-# Tableros en Tableau
+### Tableros en Tableau
 
 ### Participación en Eventos
 Datathon (Mayo 2024)

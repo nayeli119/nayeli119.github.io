@@ -3,7 +3,7 @@
 #### Habilidades Técnicas: Power BI, Tableau, R, Python, SQL
 
 ## Educación
-Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Monterrey (Junio 2025)
+Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Monterrey (Jun 2025)
 - Beca al Talento Académico 
 - Promedio: 97.62
 
@@ -45,7 +45,7 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 - **Segmentación - 8 puntos**: Generar, graficar y optimizar 8 puntos en clusters. 
 [Código](https://rpubs.com/NayeliPM/1154418)
 - **Shiny App**: [App](https://nayelipm.shinyapps.io/PanelFinal/)
-
+- **Curso de Betamétrica** [Repositorio](https://github.com/nayeli119/proyectos_betametrica/tree/main)
 
 ## Códigos con Python
 
@@ -56,14 +56,15 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 ## Tableros en Tableau
 
 ## Participación en Eventos
-**Datathon (Mayo 2024)**
+**Datathon (May 2024)**
 - Identificar los comentarios positivos o negativos del público y los clientes de Hey Banco, con el fin de obtener áreas de Oportunidad en distintos segmentos operativos.
 - Realizar análisis de sentimientos, análisis de frecuencia de palabras, análisis de asociaciones, análisis de tópicos.
 - Brindar conclusiones y recomendaciones en base a los hallazgos identificados.
   
 [Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 
-
+**Capacitación Continua**
+Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
 
 
 

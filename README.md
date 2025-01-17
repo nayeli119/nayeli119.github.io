@@ -17,5 +17,5 @@ On Campus Intern: Apoyo en las estadísticas de empleabilidad CVDP | Tecnológic
 ### Proyectos
 
 ### Participación en Eventos
-[Datathon Mayo (2024)] (https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
+[Datathon] (https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 

@@ -63,8 +63,8 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
   
 [Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 
-**Capacitación Continua**
-Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
+## **Capacitación Continua**
+* Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
 
 
 

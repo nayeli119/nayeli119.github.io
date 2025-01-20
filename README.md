@@ -1,6 +1,7 @@
 # Especialista en Inteligencia de Negocios
 
-#### Habilidades Técnicas: Power BI, Tableau, R, Python, SQL
+#### Habilidades Técnicas: Power BI, Tableau, R, Python, SQL, Microsoft 365
+#### Habilides Ejecutivas: Trabajo en equipo, Liderazgo, Comunicación, Productividad, Análisis, Iniciativa, Mejora continua, Organización, Pensamiento crítico
 
 ## Educación
 Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Monterrey (Jun 2025)
@@ -12,7 +13,7 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 - Dar seguimiento de la empleabilidad de los graduados a través de LinkedIn y Bolsa de Trabajo del TEC.
 - Crear dos Dahboards en Excel para analizar la empleabilidad histórica en el Campus.
 - Implementar What-Sender para hacer más eficiente el envío de mensajes masivos logrando mandar más de 2,200 mensajes.
-- [Recomendación de mi Jefa](https://www.linkedin.com/in/nayeli-pe%C3%B1a-mart%C3%ADnez-7a48b9221/details/recommendations/)
+- [Recomendación de mi jefa](https://www.linkedin.com/in/nayeli-pe%C3%B1a-mart%C3%ADnez-7a48b9221/details/recommendations/)
 
 
 ## Proyectos
@@ -82,14 +83,23 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
   
 [Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 
+**Caso Femsa TEC Consulting**
+
+
 ## **Capacitación Continua**
 * Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
 
   ## Participación en Grupos y Organizaciones
-  + IMEF Universitario
-     - j
-  + Banxico
-  + Sociedad de Alumnos de Inteligencia de Negocios (SALIT)
+  + **IMEF Universitario**
+    - Socia IMEFU
+    - Presidenta
+    - Coordinadora General del Comité Organizador del Encuentro Nacional de Mesas Directivas
+    - Presidenta Regional
+  + **Banxico**
+    - Enlace Universitario Banxico
+  + **Sociedad de Alumnos de Inteligencia de Negocios (SALIT)**
+    - Coordinadora de Finanzas
+    - Presidenta
  
 <details>
  <summary>Hola +</summary>

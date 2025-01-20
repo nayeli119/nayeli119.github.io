@@ -94,25 +94,5 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 * Curso “Explora la tecnología emergente” (2024)
 * Certificación PL-300 (2023)
 
-## Participación en Grupos y Organizaciones
-<details>
-  <summary>**IMEF Universitario**</summary>
-  - Socia IMEFU  
-  - Presidenta MDL  
-  - Coordinadora General del Comité Organizador del Encuentro Nacional de Mesas Directivas  
-  - Presidenta Regional  
-</details>
-
-<details>
-  <summary>**Banxico**</summary>
-  - Enlace Universitario Banxico  
-</details>
-
-<details>
-  <summary>**Sociedad de Alumnos de Inteligencia de Negocios (SALIT)**</summary>
-  - Coordinadora de Finanzas  
-  - Presidenta Campus Monterrey  
-</details>
-
 
 

@@ -97,14 +97,14 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
   ## Participación en Grupos y Organizaciones
   + **IMEF Universitario**
     - Socia IMEFU
-    - Presidenta
+    - Presidenta MDL
     - Coordinadora General del Comité Organizador del Encuentro Nacional de Mesas Directivas
     - Presidenta Regional
   + **Banxico**
     - Enlace Universitario Banxico
   + **Sociedad de Alumnos de Inteligencia de Negocios (SALIT)**
     - Coordinadora de Finanzas
-    - Presidenta
+    - Presidenta Campus Monterrey
  
 <details>
  <summary>Hola +</summary>

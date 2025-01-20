@@ -12,13 +12,32 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 - Dar seguimiento de la empleabilidad de los graduados a través de LinkedIn y Bolsa de Trabajo del TEC.
 - Crear dos Dahboards en Excel para analizar la empleabilidad histórica en el Campus.
 - Implementar What-Sender para hacer más eficiente el envío de mensajes masivos logrando mandar más de 2,200 mensajes.
+- [Recomendación de mi Jefa](https://www.linkedin.com/in/nayeli-pe%C3%B1a-mart%C3%ADnez-7a48b9221/details/recommendations/)
 
 
 ## Proyectos
+**LoneDogs (2023?)**
+**Ago-Dic 2023!**
+
+**Cuellos de Botella en la Línea MC4 | Ternium (Ago - Dic 2024)**
+
+
 **Problemas de Ventas y RH | Form (Feb - Jun 2024)**
 - Limpiar y manipular bases de datos.
 - Proporcionar 3 modelos de inteligencia artificial para datos estructurados.
 - Proponer un plan de implementación en Databricks.
+
+**Strategic Decision Mapping: Quality Measurement | ProSociedad (Feb - Jun 2023)**
+- Diseñar un Dashboard de KPI's utilizando Tableau para mostrar la calidad del servicio.
+- Proponer comunicaciones personalizadas con los clientes basadas en correlaciones.
+
+**Identificando y Gestionando Riesgos | Arca Continental (Feb - Jun 2023)**
+- Proponer la creación de un indicador que evalua qué tan efectiva es la Plataforma Digital de la Empresa.
+- Realizar un Dashboard, con su Manual de Uso, utilizando Power BI para obtener insights de los KPI's.
+
+**Del taller artesanal a la búsqueda de insights | AMSE (Feb - Jun 2023)**
+- Diseñar un Dashboard de KPI usando Tableau para mostrar su situación operativa y financiera actual.
+- Proponer líneas de acción estratégicas, crear matriz FODA y matriz de gestión de riesgos.
 
 ## Códigos con R
 
@@ -66,6 +85,10 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 ## **Capacitación Continua**
 * Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
 
-
+  ## Participación en Grupos y Organizaciones
+  + IMEF Universitario
+     - j
+  + Banxico
+  + Sociedad de Alumnos de Inteligencia de Negocios (SALIT) 
 
 

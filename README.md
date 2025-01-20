@@ -89,6 +89,12 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
   + IMEF Universitario
      - j
   + Banxico
-  + Sociedad de Alumnos de Inteligencia de Negocios (SALIT) 
+  + Sociedad de Alumnos de Inteligencia de Negocios (SALIT)
+ 
+<details>
+ <summary>Hola +</summary>
+ Aquí puedes escribir más información sobre esta sección.
+</details>
+
 
 

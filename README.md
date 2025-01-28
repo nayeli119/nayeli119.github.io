@@ -16,9 +16,6 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 
 
 ## Proyectos
-**LoneDogs (2023?)**
-**Ago-Dic 2023!**
-
 **Cuellos de Botella en la Línea MC4 | Ternium (Ago - Dic 2024)**
 
 
@@ -39,8 +36,27 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 - Diseñar un Dashboard de KPI usando Tableau para mostrar su situación operativa y financiera actual.
 - Proponer líneas de acción estratégicas, crear matriz FODA y matriz de gestión de riesgos.
 
-## Códigos con R
 
+## Participación en Eventos
+**Datathon (May 2024)**
+- Identificar los comentarios positivos o negativos del público y los clientes de Hey Banco, con el fin de obtener áreas de Oportunidad en distintos segmentos operativos.
+- Realizar análisis de sentimientos, análisis de frecuencia de palabras, análisis de asociaciones, análisis de tópicos.
+- Brindar conclusiones y recomendaciones en base a los hallazgos identificados.
+  
+[Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
+
+**Caso Femsa TEC Consulting**
+
+
+## **Capacitación Continua**
+* Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
+* Herramientas de ciencia de datos (2024)
+* Diplomado en Ciencia de Datos (2024)
+* Participación en Datathon (2024)
+* Curso “Explora la tecnología emergente” (2024)
+* Certificación PL-300 (2023)
+
+## Códigos con R
 - **USArrests (Clusters)**: Identificar el nivel de criminalidad en los diferentes Estados de Estados Unidos y crear 4 clusters en una escala del más seguro al menos seguro. 
 [Código](https://rpubs.com/NayeliPM/1156426)
 - **Aprendizaje Automático: Breast Cancer con CARET**: Identificar si el cáncer de mama de los pacientes es benigno o maligno con los siguientes métodos: Máquina de Vectores de Soporte, Árbol de Decisión, Redes Neuronales y Bosques Aleatorios. 
@@ -65,33 +81,5 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 [Código](https://rpubs.com/NayeliPM/1154418)
 - **Shiny App**: [App](https://nayelipm.shinyapps.io/PanelFinal/)
 - **Curso de Betamétrica** [Repositorio](https://github.com/nayeli119/proyectos_betametrica/tree/main)
-
-## Códigos con Python
-
-## Códigos con SQL
-
-## Tableros en Power BI
-
-## Tableros en Tableau
-
-## Participación en Eventos
-**Datathon (May 2024)**
-- Identificar los comentarios positivos o negativos del público y los clientes de Hey Banco, con el fin de obtener áreas de Oportunidad en distintos segmentos operativos.
-- Realizar análisis de sentimientos, análisis de frecuencia de palabras, análisis de asociaciones, análisis de tópicos.
-- Brindar conclusiones y recomendaciones en base a los hallazgos identificados.
-  
-[Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
-
-**Caso Femsa TEC Consulting**
-
-
-## **Capacitación Continua**
-* Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024) [Certificado](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
-* Herramientas de ciencia de datos (2024)
-* Diplomado en Ciencia de Datos (2024)
-* Participación en Datathon (2024)
-* Curso “Explora la tecnología emergente” (2024)
-* Certificación PL-300 (2023)
-
 
 

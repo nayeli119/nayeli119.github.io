@@ -62,12 +62,12 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
 [Certificado de Participación](https://drive.google.com/file/d/14NcHLk2bqA_qJXhf29K9A9t-fuKUAKzd/view?usp=sharing)
 
 ## **Capacitación Continua**
-* [Certificación PL-300 | Microsoft (Sep 2023)](https://learn.microsoft.com/es-es/users/nayelipea-8168/credentials/a3c5d4dbeaf07f9d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-* [Diplomado en Ciencia de Datos | Tecnolochicas (Feb 2024)](https://drive.google.com/file/d/1z1qLDwyVUfrGEM455bKSN5EPog8qNAIM/view?usp=sharing)
-* [Curso “Introducción a las tecnologías emergentes” | Santander (Abr 2024)](https://drive.google.com/file/d/1insv7K9ugHLsnSaNAGNFSgz9DSEtU63t/view?usp=sharing)
-* [Fundamentos de Ciencia de Datos IBM (May 2024)](https://www.credly.com/badges/ebdd3b9f-e089-409f-9357-1afd58a6f352/linked_in_profile)
-* [MLOps Concepts | DataCamp (May 2024)](https://drive.google.com/file/d/1rv7cuDpx4RqSup9DoE8NqDv8BNbo9sAo/view?usp=sharing)
-* [Data Visualization Python, Matplotlib y Seaborn | Bright Labs (Oct 2024)](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
+* [Certificación PL-300 (Microsoft, Sep 2023)](https://learn.microsoft.com/es-es/users/nayelipea-8168/credentials/a3c5d4dbeaf07f9d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+* [Diplomado en Ciencia de Datos (Tecnolochicas, Feb 2024)](https://drive.google.com/file/d/1z1qLDwyVUfrGEM455bKSN5EPog8qNAIM/view?usp=sharing)
+* [Curso “Introducción a las tecnologías emergentes” (Santander, Abr 2024)](https://drive.google.com/file/d/1insv7K9ugHLsnSaNAGNFSgz9DSEtU63t/view?usp=sharing)
+* [Fundamentos de Ciencia de Datos (IBM, May 2024)](https://www.credly.com/badges/ebdd3b9f-e089-409f-9357-1afd58a6f352/linked_in_profile)
+* [MLOps Concepts (DataCamp, May 2024)](https://drive.google.com/file/d/1rv7cuDpx4RqSup9DoE8NqDv8BNbo9sAo/view?usp=sharing)
+* [Data Visualization Python, Matplotlib y Seaborn (Bright Labs, Oct 2024)](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
 
 ## Códigos con R
 - **USArrests (Clusters)**: Identificar el nivel de criminalidad en los diferentes Estados de Estados Unidos y crear 4 clusters en una escala del más seguro al menos seguro. 

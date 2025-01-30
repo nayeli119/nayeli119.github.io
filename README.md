@@ -54,7 +54,7 @@ Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Mon
   
 [Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
 
-**Caso Femsa TEC Consulting Club**
+**Caso Femsa TEC Consulting Club (Jun 2024)**
 - Colaborar en el desarrollo de un caso de negocio para FEMSA, evaluando su incursión en el mercado digital, especialmente a través de OXXO en México.
 - Realizar un análisis estratégico para identificar el potencial de la incursión digital y definir el "right-to-win" de FEMSA en este mercado.
 - Contribuir a mapear el mercado digital, identificar oportunidades y definir una propuesta de valor que alineara los productos y servicios de FEMSA con las necesidades del consumidor.

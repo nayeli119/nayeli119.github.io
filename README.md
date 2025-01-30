@@ -1,6 +1,6 @@
 # Especialista en Inteligencia de Negocios
 
-#### Habilidades Técnicas: Power BI, Tableau, R, Python, SQL, Microsoft 365
+#### Habilidades Técnicas: Power BI, Tableau, R, Python, SQL, Microsoft 365, GitHub
 
 ## Educación
 Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Monterrey (Jun 2025)

@@ -1,98 +1,97 @@
-# Especialista en Inteligencia de Negocios
+# **Business Intelligence Specialist**  
 
-#### Habilidades Técnicas: Power BI, Tableau, R, Python, SQL, Microsoft 365, GitHub
+#### **Technical Skills:** Power BI, Tableau, R, Python, SQL, Microsoft 365, GitHub  
 
-## Educación
-Licenciatura en Inteligencia de Negocios | Tecnológico de Monterrey, Campus Monterrey (Jun 2025)
-* Concentración en Inteligencia Artificial con Impacto Empresarial
-* Concentración en Analítica de Datos y Herramientas de Inteligencia Artificial
-- Beca al Talento Académico 
-- Promedio: 97.62
+## **Education**  
+**Bachelor’s Degree in Business Intelligence** | Tecnológico de Monterrey, Monterrey Campus (Jun 2025)  
+* Concentration in Artificial Intelligence with Business Impact  
+* Concentration in Data Analytics and AI Tools  
+- Academic Talent Scholarship  
+- GPA: 97.62  
 
-## Experiencia Laboral
-**Practicante de Tableros, Reportes y Data Hub | Tecnológico de Monterrey, Campus Monterrey (Sep 2024 - Actualidad)**
-- Diseñar y desarrollar vistas personalizadas en Power BI, mejorando la visualización y el análisis de datos clave.
-- Realizar y recomendar cursos de Power BI, contribuyendo al plan de aprendizaje continuo del equipo.
-- Aplicar la metodología SCRUM, participando activamente en reuniones diarias para alinear prioridades y objetivos.
+## **Work Experience**  
+**Dashboards, Reports, and Data Hub Intern** | Tecnológico de Monterrey, Monterrey Campus (Sep 2024 - Present)  
+- Design and develop customized views in Power BI, improving key data visualization and analysis.  
+- Conduct and recommend Power BI courses, contributing to the team’s continuous learning plan.  
+- Apply SCRUM methodology, actively participating in daily meetings to align priorities and objectives.  
 
-**Practicante de Análisis de Datos de Empleabilidad | Tecnológico de Monterrey, Campus Monterrey (Ago 2023 - Jul 2024)**
-- Gestionar una base de datos para el seguimiento de la empleabilidad de graduados, integrando datos de LinkedIn y la Bolsa de Trabajo Institucional, con actualizaciones periódicas.
-- Crear dos Dashboards en Excel para analizar la empleabilidad histórica en el Campus.
-- Implementar What-Sender para eficientar el envío de mensajes masivos logrando enviar más de 2,200 mensajes.
-- Investigar vacantes en LinkedIn, integrarlas en una base de datos y enviar un boletín semanal a los alumnos.
-- [Recomendación de mi líder directo](https://www.linkedin.com/in/nayeli-pe%C3%B1a-mart%C3%ADnez-7a48b9221/details/recommendations/)
+**Employability Data Analysis Intern** | Tecnológico de Monterrey, Monterrey Campus (Aug 2023 - Jul 2024)  
+- Manage a database to track graduate employability, integrating LinkedIn and Institutional Job Board data with periodic updates.  
+- Create two dashboards in Excel to analyze historical employability at the campus.  
+- Implement What-Sender to optimize mass messaging, sending over 2,200 messages.  
+- Research job openings on LinkedIn, integrate them into a database, and send a weekly newsletter to students.  
+- [Recommendation from my direct supervisor](https://www.linkedin.com/in/nayeli-pe%C3%B1a-mart%C3%ADnez-7a48b9221/details/recommendations/)  
 
-## Proyectos
-**Cuellos de Botella en la Línea MC4 | Ternium (Ago - Dic 2024)**
-- Procesar y consolidar diversas bases de datos en una base centralizada, limpiando y manipulando datos para generar variables relevantes, incluyendo variables binomiales, adaptadas a la problemática analizada.
-- Realizar análisis exploratorios y estadísticos desarrollando modelos como: Regresión Logística, Regresión Lineal Múltiple, KNN, Isolation Forest, K-Means y Random Forest utilizando Python para generar hallazgos clave.
-- Diseñar una aplicación interactiva en Streamlit integrando análisis, hallazgos y recomendaciones.
+## **Projects**  
+**Bottlenecks in MC4 Line | Ternium (Aug - Dec 2024)**  
+- Process and consolidate multiple databases into a centralized database, cleaning and manipulating data to generate relevant variables, including binomial variables, adapted to the analyzed problem.  
+- Perform exploratory and statistical analyses, developing models such as Logistic Regression, Multiple Linear Regression, KNN, Isolation Forest, K-Means, and Random Forest using Python to generate key insights.  
+- Design an interactive application in Streamlit, integrating analysis, findings, and recommendations.  
 
-**Problemas de Ventas y RH | Form (Feb - Jun 2024)**
-- Implementar la metodología SCRUM para el desarrollo del proyecto, asegurando la colaboración efectiva.
-- Realizar modelos de clasificación para identificar candidatos con alta probabilidad de permanecer al menos dos meses en la empresa.
-- Predecir ventas mensuales por cliente mediante modelos 3 en R (XGBoost, AutoARIMA y RandomForest) y comparar sus métricas de error. 
-- Proponer un plan de implementación en Databricks del modelo con mejor desempeño.
+**Sales and HR Problems | Form (Feb - Jun 2024)**  
+- Implement SCRUM methodology to ensure effective project collaboration.  
+- Develop classification models to identify candidates with a high probability of staying at least two months in the company.  
+- Predict monthly sales per client using three models in R (XGBoost, AutoARIMA, and RandomForest) and compare their error metrics.  
+- Propose an implementation plan in Databricks for the best-performing model.  
 
-**Strategic Decision Mapping: Quality Measurement | ProSociedad (Feb - Jun 2023)**
-- Diseñar un Dashboard de KPI's utilizando Tableau para mostrar la calidad del servicio.
-- Proponer comunicaciones personalizadas con los clientes basadas en correlaciones.
+**Strategic Decision Mapping: Quality Measurement | ProSociedad (Feb - Jun 2023)**  
+- Design a KPI Dashboard using Tableau to measure service quality.  
+- Propose personalized communications with clients based on correlations.  
 
-**Identificando y Gestionando Riesgos | Arca Continental (Feb - Jun 2023)**
-- Proponer la creación de un indicador que evalue qué tan efectiva es la Plataforma Digital de la Empresa.
-- Realizar un Dashboard con su Manual de Uso, utilizando Power BI para obtener insights de los KPI’s.
+**Identifying and Managing Risks | Arca Continental (Feb - Jun 2023)**  
+- Propose the creation of an indicator to evaluate the effectiveness of the company’s Digital Platform.  
+- Develop a Dashboard with a User Manual using Power BI to gain insights into key performance indicators (KPIs).  
 
-**Del taller artesanal a la búsqueda de insights | AMSE (Feb - Jun 2023)**
-- Diseñar un Dashboard de KPI usando Tableau para mostrar su situación operativa y financiera actual.
-- Proponer líneas de acción estratégicas, crear matriz FODA y matriz de gestión de riesgos.
+**From Handicraft Workshop to Insight Discovery | AMSE (Feb - Jun 2023)**  
+- Design a KPI Dashboard using Tableau to showcase the organization’s current operational and financial status.  
+- Propose strategic action plans, create a SWOT matrix, and a risk management matrix.  
 
-## Participación en Eventos
-**Datathon (May 2024)**
-- Identificar los comentarios positivos o negativos del público y los clientes de Hey Banco, con el fin de obtener áreas de Oportunidad en distintos segmentos operativos.
-- Realizar análisis de sentimientos, análisis de frecuencia de palabras, análisis de asociaciones, análisis de tópicos.
-- Brindar conclusiones y recomendaciones en base a los hallazgos identificados.
-  
-[Certificado de Participación](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)
+## **Event Participation**  
+**Datathon (May 2024)**  
+- Identify positive and negative customer feedback for Hey Banco to find opportunity areas in different operational segments.  
+- Conduct sentiment analysis, word frequency analysis, association analysis, and topic modeling.  
+- Provide conclusions and recommendations based on the identified findings.  
 
-**Caso Femsa TEC Consulting Club (Jun 2024)**
-- Colaborar en el desarrollo de un caso de negocio para FEMSA, evaluando su incursión en el mercado digital, especialmente a través de OXXO en México.
-- Realizar un análisis estratégico para identificar el potencial de la incursión digital y definir el "right-to-win" de FEMSA en este mercado.
-- Contribuir a mapear el mercado digital, identificar oportunidades y definir una propuesta de valor que alineara los productos y servicios de FEMSA con las necesidades del consumidor.
+[Certificate of Participation](https://drive.google.com/file/d/1BYtz9Nvw1r-h6hhHFseb8iIb_Ty8FsFA/view?usp=sharing)  
 
-[Certificado de Participación](https://drive.google.com/file/d/14NcHLk2bqA_qJXhf29K9A9t-fuKUAKzd/view?usp=sharing)
+**FEMSA TEC Consulting Club Case (Jun 2024)**  
+- Collaborate on developing a business case for FEMSA, evaluating its entry into the digital market, especially through OXXO in Mexico.  
+- Conduct strategic analysis to identify the potential of FEMSA’s digital expansion and define its "right-to-win" in this market.  
+- Contribute to mapping the digital market, identifying opportunities, and defining a value proposition aligning FEMSA’s products and services with consumer needs.  
 
-## **Capacitación Continua**
-* [Certificación PL-300 (Microsoft, Sep 2023)](https://learn.microsoft.com/es-es/users/nayelipea-8168/credentials/a3c5d4dbeaf07f9d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-* [Diplomado en Ciencia de Datos (Tecnolochicas, Feb 2024)](https://drive.google.com/file/d/1z1qLDwyVUfrGEM455bKSN5EPog8qNAIM/view?usp=sharing)
-* [Curso “Introducción a las tecnologías emergentes” (Santander, Abr 2024)](https://drive.google.com/file/d/1insv7K9ugHLsnSaNAGNFSgz9DSEtU63t/view?usp=sharing)
-* [Fundamentos de Ciencia de Datos (IBM, May 2024)](https://www.credly.com/badges/ebdd3b9f-e089-409f-9357-1afd58a6f352/linked_in_profile)
-* [MLOps Concepts (DataCamp, May 2024)](https://drive.google.com/file/d/1rv7cuDpx4RqSup9DoE8NqDv8BNbo9sAo/view?usp=sharing)
-* [Data Visualization Python, Matplotlib y Seaborn (Bright Labs, Oct 2024)](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)
+[Certificate of Participation](https://drive.google.com/file/d/14NcHLk2bqA_qJXhf29K9A9t-fuKUAKzd/view?usp=sharing)  
 
-## Códigos con R
-- **USArrests (Clusters)**: Identificar el nivel de criminalidad en los diferentes Estados de Estados Unidos y crear 4 clusters en una escala del más seguro al menos seguro. 
-[Código](https://rpubs.com/NayeliPM/1156426)
-- **Aprendizaje Automático: Breast Cancer con CARET**: Identificar si el cáncer de mama de los pacientes es benigno o maligno con los siguientes métodos: Máquina de Vectores de Soporte, Árbol de Decisión, Redes Neuronales y Bosques Aleatorios. 
-[Código](https://rpubs.com/NayeliPM/1156421)
-- **Machine Learning: Iris con paquete CARET**: Identificar si al flor es Versicolor, Setosa o virginica con los siguientes métodos: Máquina de Vectores de Soporte, Árbol de Decisión, Redes Neuronales y Bosques Aleatorios. 
-[Código](https://rpubs.com/NayeliPM/1156418)
-- **Text Mining: Novela IT**: Obtener datos con reconocimiento óptico de caracteres (OCR) y realizar análisis de sentimientos, nube de palabras y topic modeling. 
-[Código](https://rpubs.com/NayeliPM/1156410)
-- **Data Explorer: nycflights13**: Realizar un análisis exploratorio con la librería Data Explorer con datos del paquete nycflights13. 
-[Código](https://rpubs.com/NayeliPM/1156361)
-- **Regresión Lineal**: Entender y limpiar la base de datos, agregar variables, generar y ajustar una regresión lineal. 
-[Código](https://rpubs.com/NayeliPM/1156335)
-- **Redes Neuronales: Cáncer de mama**: Usar la librería neuralnet para generar una red neuronal y predecir resultados. 
-[Código](https://rpubs.com/NayeliPM/)
-- **Redes Neuronales: Pase de Materia**: Usar la librería neuralnet para generar una red neuronal y predecir resultados. 
-[Código](https://rpubs.com/NayeliPM/1156319)
-- **Árbol de Decisión: Titanic**: Realizar un árbol de decisión para predecir si un tripulante del Titanic sobrevive o muere. 
-[Código](https://rpubs.com/NayeliPM/1156282)
-- **Segmentación (clusters): Vinos**: Generar Clusters para distinguir qué vino pertenece a cada cultivar. 
-[Código](https://rpubs.com/NayeliPM/vinos)
-- **Segmentación - 8 puntos**: Generar, graficar y optimizar 8 puntos en clusters. 
-[Código](https://rpubs.com/NayeliPM/1154418)
-- **Shiny App**: [App](https://nayelipm.shinyapps.io/PanelFinal/)
-- **Curso de Betamétrica** [Repositorio](https://github.com/nayeli119/proyectos_betametrica/tree/main)
+## **Continuous Training**  
+* [PL-300 Certification (Microsoft, Sep 2023)](https://learn.microsoft.com/es-es/users/nayelipea-8168/credentials/a3c5d4dbeaf07f9d?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+* [Data Science Diploma (Tecnolochicas, Feb 2024)](https://drive.google.com/file/d/1z1qLDwyVUfrGEM455bKSN5EPog8qNAIM/view?usp=sharing)  
+* [Course “Introduction to Emerging Technologies” (Santander, Apr 2024)](https://drive.google.com/file/d/1insv7K9ugHLsnSaNAGNFSgz9DSEtU63t/view?usp=sharing)  
+* [Data Science Fundamentals (IBM, May 2024)](https://www.credly.com/badges/ebdd3b9f-e089-409f-9357-1afd58a6f352/linked_in_profile)  
+* [MLOps Concepts (DataCamp, May 2024)](https://drive.google.com/file/d/1rv7cuDpx4RqSup9DoE8NqDv8BNbo9sAo/view?usp=sharing)  
+* [Data Visualization with Python, Matplotlib, and Seaborn (Bright Labs, Oct 2024)](https://drive.google.com/file/d/1zV3aWYmKZ9cdsoTjHaIQ3CKdo7gWKGno/view?usp=sharing)  
 
+## **R Code Projects**  
+- **USArrests (Clusters):** Identify crime levels in different U.S. states and create four clusters on a scale from safest to least safe.  
+[Code](https://rpubs.com/NayeliPM/1156426)  
+- **Machine Learning: Breast Cancer with CARET:** Identify whether a patient’s breast cancer is benign or malignant using methods like Support Vector Machine, Decision Tree, Neural Networks, and Random Forest.  
+[Code](https://rpubs.com/NayeliPM/1156421)  
+- **Machine Learning: Iris with CARET package:** Identify if a flower is Versicolor, Setosa, or Virginica using SVM, Decision Tree, Neural Networks, and Random Forest.  
+[Code](https://rpubs.com/NayeliPM/1156418)  
+- **Text Mining: IT Novel:** Extract data using optical character recognition (OCR) and perform sentiment analysis, word cloud visualization, and topic modeling.  
+[Code](https://rpubs.com/NayeliPM/1156410)  
+- **Data Explorer: nycflights13:** Conduct exploratory analysis using the Data Explorer library with the nycflights13 dataset.  
+[Code](https://rpubs.com/NayeliPM/1156361)  
+- **Linear Regression:** Clean and understand the dataset, add variables, generate, and adjust a linear regression model.  
+[Code](https://rpubs.com/NayeliPM/1156335)  
+- **Neural Networks: Breast Cancer:** Use the neuralnet library to generate a neural network and predict outcomes.  
+[Code](https://rpubs.com/NayeliPM/)  
+- **Neural Networks: Course Passing:** Use the neuralnet library to generate a neural network and predict outcomes.  
+[Code](https://rpubs.com/NayeliPM/1156319)  
+- **Decision Tree: Titanic:** Create a decision tree to predict whether a Titanic passenger survives or not.  
+[Code](https://rpubs.com/NayeliPM/1156282)  
+- **Segmentation (Clusters): Wine:** Generate clusters to classify wine types by cultivar.  
+[Code](https://rpubs.com/NayeliPM/vinos)  
+- **Segmentation - 8 Points:** Generate, graph, and optimize 8 points into clusters.  
+[Code](https://rpubs.com/NayeliPM/1154418)  
+- **Shiny App:** [App](https://nayelipm.shinyapps.io/PanelFinal/)  
+- **Betamétrica Course:** [Repository](https://github.com/nayeli119/proyectos_betametrica/tree/main)  
 

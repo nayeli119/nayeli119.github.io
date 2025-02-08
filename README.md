@@ -4,8 +4,8 @@
 
 ## **Education**  
 **Bachelor’s Degree in Business Intelligence** | Tecnológico de Monterrey, Monterrey Campus (Jun 2025)  
-* Concentration in Artificial Intelligence with Business Impact  
-* Concentration in Data Analytics and AI Tools  
+* Minor in Artificial Intelligence with Business Impact  
+* Minor in Data Analytics and AI Tools  
 - Academic Talent Scholarship  
 - GPA: 97.62  
 

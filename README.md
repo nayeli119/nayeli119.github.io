@@ -23,6 +23,12 @@
 - [Recommendation from my direct supervisor](https://www.linkedin.com/in/nayeli-pe%C3%B1a-mart%C3%ADnez-7a48b9221/details/recommendations/)  
 
 ## **Projects**  
+**CPG/Retail Data Analytics, Insights & Business Intelligence | NielsenIQ (Feb - Mar 2025)**  
+- Analysis of the snacking basket in Mexico using CPG/Retail data, exploring sales, channels, socioeconomic levels, and consumption trends.
+- Development of a Power BI dashboard and analysis in Excel and R to generate insights and strategic recommendations.
+- 🥈 Second place in the NielsenIQ University Challenge out of 32 teams, recognized for data handling and the quality of the deliverable.
+[Certificate of Participation](https://drive.google.com/file/d/1pjh3BCsiY4MlpmTro5UPgm5MP2Tp6QrK/view?usp=sharing)  
+
 **Bottlenecks in MC4 Line | Ternium (Aug - Dec 2024)**  
 - Process and consolidate multiple databases into a centralized database, cleaning and manipulating data to generate relevant variables, including binomial variables, adapted to the analyzed problem.  
 - Perform exploratory and statistical analyses, developing models such as Logistic Regression, Multiple Linear Regression, KNN, Isolation Forest, K-Means, and Random Forest using Python to generate key insights.  

@@ -40,6 +40,10 @@
 - Predict monthly sales per client using three models in R (XGBoost, AutoARIMA, and RandomForest) and compare their error metrics.  
 - Propose an implementation plan in Databricks for the best-performing model.  
 
+**From Handicraft Workshop to Insight Discovery | AMSE (Aug - Dec 2023)**  
+- Design a KPI Dashboard using Tableau to showcase the organization’s current operational and financial status.  
+- Propose strategic action plans, create a SWOT matrix, and a risk management matrix.  
+
 **Strategic Decision Mapping: Quality Measurement | ProSociedad (Feb - Jun 2023)**  
 - Design a KPI Dashboard using Tableau to measure service quality.  
 - Propose personalized communications with clients based on correlations.  
@@ -47,10 +51,6 @@
 **Identifying and Managing Risks | Arca Continental (Feb - Jun 2023)**  
 - Propose the creation of an indicator to evaluate the effectiveness of the company’s Digital Platform.  
 - Develop a Dashboard with a User Manual using Power BI to gain insights into key performance indicators (KPIs).  
-
-**From Handicraft Workshop to Insight Discovery | AMSE (Feb - Jun 2023)**  
-- Design a KPI Dashboard using Tableau to showcase the organization’s current operational and financial status.  
-- Propose strategic action plans, create a SWOT matrix, and a risk management matrix.  
 
 ## **Event Participation**  
 **Datathon (May 2024)**  

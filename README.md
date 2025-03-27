@@ -7,7 +7,7 @@
 * Minor in Artificial Intelligence with Business Impact  
 * Minor in Data Analytics and AI Tools  
 - Academic Talent Scholarship  
-- GPA: 97.62  
+- GPA: 4.85 (on a 5.0 scale) | Grade: 97
 
 ## **Work Experience**  
 **Dashboards, Reports, and Data Hub Intern** | Tecnológico de Monterrey, Monterrey Campus (Sep 2024 - Present)  
